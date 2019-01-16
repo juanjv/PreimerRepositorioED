@@ -23,6 +23,7 @@ package javadoc;
  * @since 28/11/2018
  *
  */
+// comentario de cambio
 public class Circulo { 
     
 	private double centroX;
